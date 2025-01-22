@@ -5,6 +5,6 @@ RUN pip install pandas sqlalchemy psycopg2
 
 WORKDIR /app
 
-COPY ingest_data.py ingest_data.py
+COPY ingest_taxi_zone.py ingest_taxi_zone.py
 
-ENTRYPOINT [ "python", "ingest_data.py" ]
+ENTRYPOINT [ "python", "ingest_taxi_zone.py" ]
