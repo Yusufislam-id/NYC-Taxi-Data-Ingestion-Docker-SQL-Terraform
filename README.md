@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project focuses on setting up a Dockerized PostgreSQL database to work with NYC taxi data, building a data pipeline, and performing analysis. The README includes detailed step-by-step instructions and queries for completing various tasks.
+This project includes configuring a Dockerized PostgreSQL database to manage NYC taxi data, developing a data pipeline, conducting analysis, and deploying infrastructure with Terraform. The README offers comprehensive step-by-step guidance and queries for each task.
 
 ## Docker Setup
 
